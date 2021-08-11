@@ -1,0 +1,28 @@
+{
+  "name": "meals-for-you",
+  "version": "1.0.0",
+  "description": "MAIN STACK\r     -MERN",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonNguyen-Py/Meals-for-you.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnsonNguyen-Py/Meals-for-you/issues"
+  },
+  "homepage": "https://github.com/JohnsonNguyen-Py/Meals-for-you#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "web": "^0.0.2",
+    "webpack-cli": "^4.7.2"
+  }
+}
