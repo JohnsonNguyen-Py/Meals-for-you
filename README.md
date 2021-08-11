@@ -1,8 +1,9 @@
 # Johnson Nguyen
 
+SUBJECT TO CHANGE AS I BRAINSTORM 
 
 MAIN STACK
-    -MERN
+    -MERN (MAYBE) lowkey want to use Flask or Django..
 
 MODULE BUNDLERS 
     -Webpack
@@ -11,10 +12,11 @@ DEPENDENCIES
     -LODASH 
 
 FRONT END DESIRED STACK
-    -Apart of MERN
+    - Html, React, CSS, Javascript
 
 BACK END DESIRED STACK
-    -I want python but idk yet. Let's see soon.
+    -Node.js
+    -I want python but idk yet. Let's see soon. I'll think about it.. but it might change up project if doing so. Ehh.
 
 HOW TO RUN 
     npm init -y (creates package json)
